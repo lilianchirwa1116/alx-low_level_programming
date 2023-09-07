@@ -1,6 +1,6 @@
 #include <unistd.h>
 /**
- 	* main - this printsthe input
+ 	* main - this prints exactly the input on it
  * Return: always 1.
  */
 int main(void)
