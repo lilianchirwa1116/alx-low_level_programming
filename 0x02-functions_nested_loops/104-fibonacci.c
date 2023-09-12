@@ -2,8 +2,7 @@
 
 
 /**
- * main _ The main function
- * 1 and 2, seperated by a comma
+ * main - the main function
  * Return: 0.
  */
 
