@@ -2,7 +2,7 @@
 
 
 /**
- * main - prints sum of all multiples
+ * main - check the code
  * Return: Always 0
  */
 
@@ -21,5 +21,5 @@ int main(void)
 	i++;
 	}
 	printf("%d\n", z);
-	return (0);
+        return (0);
 }
